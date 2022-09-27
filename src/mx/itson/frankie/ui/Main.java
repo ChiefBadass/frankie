@@ -38,6 +38,7 @@ public class Main {
         
         // Agregar pasos
         
+        // Espero que hayan puesto
         receta.setDificultad(Dificultad.LEGENDARIO);
     }
 }
